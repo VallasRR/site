@@ -1397,6 +1397,32 @@
   	"id":  "03c36614-63ee-4a15-8a6a-29c9de988db8",
         "name": "Ash Elite (Tombraider)",
         "category": "Elites"
+},
+	{
+			"id": "67412034-1f07-4cd3-9ab8-915f6845b1c6",
+			"name": "Year of the Ox",
+			"category": "Seasonals"
+		},
+{
+			"id": "ef00478c-7153-4a17-8a41-43b9d2443104",
+			"name": "Retro Steel",
+			"category": "Seasonals"
+		},
+{
+			"id": "75680b46-4339-4cbc-8622-3caea2254480",
+			"name": "All New Operator Icons",
+			"category": "Charms"
+		},
+{
+			"id": "0bb84898-3633-4858-98b6-2de41d63bca6",
+			"name": "Fake Paris Major (EU Major)",
+			"category": "Charms"
+		},
+{
+			"id": "9ef71262-515b-46e8-b9a8-b6b6ad456c67",
+			"name": "R6 Credits:",
+                        "quantity": quantity
+			"category": "Specialty"
 		}
 	]
 }
