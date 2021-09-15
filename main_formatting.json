@@ -170,81 +170,6 @@
 			"category": "Seasonals"
 		},
 		{
-			"id": "edbf663e-14e1-4778-8d59-3531878fe404",
-			"name": "Blitz Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "b185b283-248c-4742-8afb-de8379ab8d9d",
-			"name": "Monty Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "637589b3-9eca-4cb6-ade2-31f3a3ee7780",
-			"name": "Pulse Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "02abb76c-afdd-480b-9aff-57bd766555e3",
-			"name": "Frost Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "0498f6fc-4205-49ec-bcf3-9839ff3fe3ba",
-			"name": "FaZe Team Bundle ",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "b3b4a284-68a3-408a-9968-29bb7fd6a950",
-			"name": "2018 Rogue Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "ac8d65d4-1a13-4513-8c07-42bcc68d1e49",
-			"name": "2018 Fnatic Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "86732732-a1d3-40ed-9334-0886dd2ba4bf",
-			"name": "2018 Rouge Pro League ",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "5bbe016e-db87-4cec-ae71-c0615a7dbcbc",
-			"name": "2018 FaZe Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "c27edcd8-e6eb-4a21-b773-c944f6f62e84",
-			"name": "Mute Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "c26c1099-29a2-4611-bde3-469a000c05fd",
-			"name": "Thatcher Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "c0675da4-bbd9-4509-90ad-ac005dea5fac",
-			"name": "Sledge Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "ae35a2b3-0451-480f-b270-685a7cc5a49a",
-			"name": "Ash Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "080c6279-ed10-47bc-a8b2-85b2241e79a0",
-			"name": "Bandit Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "f44c4396-caed-48e8-a8ae-76bbfa1ad06b",
-			"name": "Thermite Pro League",
-			"category": "Pro leagues"
-		},
-		{
 			"id": "ef00478c-7153-4a17-8a41-43b9d2443104",
 			"name": "CCCP Skin",
 			"category": "Seasonals"
@@ -375,96 +300,6 @@
 			"category": "Seasonals"
 		},
 		{
-			"id": "fdb2e768-0188-4cde-b2e1-0a57845e0ec7",
-			"name": "Ash Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "f000a988-31a7-4de9-bda0-a831b2f278a7",
-			"name": "Bandit Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "df5309f6-9fdd-4462-b3e2-b7905c1d11c2",
-			"name": "Valkyrie Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "dc81a3d8-62b9-4e19-9156-602d8c66d0fa",
-			"name": "Thermite Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "801c58d7-39fe-4fe7-9613-85f0c60f0dba",
-			"name": "Rook Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "7e6e58ba-3243-425c-b801-50aa38cbca19",
-			"name": "Glaz Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "7a2c53bc-fa0d-4fab-9378-2903383ee7d5",
-			"name": "Jager Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "74c917e8-97c0-4480-8264-336d5f6e6f93",
-			"name": "Sledge Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "6f1e6654-c1a1-45c1-a81e-16dac0008b08",
-			"name": "Doc Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "6e6422ec-cf39-407a-8090-16383759078e",
-			"name": "IQ Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "5fc46f3e-0c97-4029-8cac-b36055c50903",
-			"name": "Blackbeard Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "46cf8cea-eab8-4694-93e0-a0252a57d58c",
-			"name": "Mute Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "4333d8a4-d167-423c-a3cf-a07abc0e3f44",
-			"name": "Twitch Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "3dece6b6-a465-4972-88b1-d59a2c9760b7",
-			"name": "Hibana Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "2f2ad9a1-d1e3-4abc-8ee6-26aae27baaa3",
-			"name": "Blitz Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "28b8b2d7-f9cc-45de-8c63-2c953e5adba8",
-			"name": "Pulse Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "1bf09ad4-3388-4a4a-baef-0473881d86a7",
-			"name": "Frost Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "1312f6d3-a7bd-496c-b1a4-f93d1962e8d0",
-			"name": "Thatcher Elite",
-			"category": "Elites"
-		},
-		{
 			"id": "fccfa6a5-aee2-4bea-b32f-1bd56f194846",
 			"name": "Signature Six 2021",
 			"category": "Attachment Skins"
@@ -473,81 +308,6 @@
 			"id": "7636a2cf-b53e-45d5-90e5-441c42442d90",
 			"name": "Universal Purple",
 			"category": "Attachment Skins"
-		},
-		{
-			"id": "f3056b8f-1793-4da6-bc10-21d213bd7fbe",
-			"name": "Kaid Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "eeedf33f-715c-42a5-8105-0105b26c7c4c",
-			"name": "Mozzie Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "ea895465-0c5b-4f88-98a2-af877f58b637",
-			"name": "Maestro Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "e9efc105-909a-4862-be13-d8a1815fe621",
-			"name": "Ela Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "e3ec559a-f5d4-4aaf-941d-abb8e5b2f8a5",
-			"name": "Alibi Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "db29cfe6-fb3c-4697-adb1-9e002744fdbb",
-			"name": "Nomad Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "d127fbc8-a572-4ed1-8e19-61597753bf89",
-			"name": "Finka Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "d05d4810-69dc-495c-9339-43524fa3e8bb",
-			"name": "Sledge Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "cfb7c3c7-406c-4316-b26f-7de9373171d6",
-			"name": "Blackbeard Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "5bbade8d-7207-41ad-8dad-0d2d7246cbd6",
-			"name": "Gridlock Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "592ee3e0-e1fb-49a5-ac2a-ccdeddb7e424",
-			"name": "Kapkan Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "45dfba36-6b69-4e7c-b669-dd6112581401",
-			"name": "Mute Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "2c1d1fdd-acb4-4d76-b8ad-70569f9332df",
-			"name": "Maverick Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "2823e8a3-290b-4c82-b743-da3cefb4df0e",
-			"name": "Rook Proleague",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "0056e8a6-e0d4-4a85-8a4a-537b4798ae76",
-			"name": "Clash Proleague",
-			"category": "Pro leagues"
 		},
 		{
 			"id": "a39b2b21-3872-40f8-9d2b-b5cb959fcac2",
@@ -578,111 +338,6 @@
 			"id": "e43428d2-847d-4d52-a96d-166c52cc79c3",
 			"name": "Surgical Stitch",
 			"category": "Seasonals"
-		},
-		{
-			"id": "f48ae5fb-c9fd-469c-afe0-38a2de5fa19f",
-			"name": "Cav Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "8668ee4b-14a0-4e3b-ae69-c49830e6a332",
-			"name": "Nomad Fnatic 2019",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "409e1e54-2619-4249-a666-1bde191fc357",
-			"name": "Twitch Penta 2019",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "2c025c6c-cb6c-4b39-a5d0-c780e38b0fdc",
-			"name": "L85A2 Vitality Skin",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "243a0fd7-397a-406a-b4df-7be0667a6a01",
-			"name": "Ying Pro League",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "0a8b0eaa-c4a3-444a-b40c-c4a3f3315024",
-			"name": "G2 Set 2019",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "c3214c47-619b-424a-8eb2-67ddedb4bf14",
-			"name": "Fuze Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "14075d00-8662-46e7-b89e-1ad3e41cdebc",
-			"name": "2018 Liquid Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "8eee3fa2-7038-4143-a385-0d7f3d5b4ad3",
-			"name": "2018 SK Gaming Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "8f406aa7-0b5c-4aec-b355-fd6316303b10",
-			"name": "2018 Penta Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "a769d353-0944-484a-b891-c91db0e6f06f",
-			"name": "2018 Vitality Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "b2d817fb-d41b-4fb4-824d-05c73a783894",
-			"name": "2018 Immortals Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "ba9d1285-6921-4021-9953-45cbe69f131a",
-			"name": "2018 NiP Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "de94189b-014b-496c-8a07-a7fb5a94bef2",
-			"name": "Evil Geniuses Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "e4770c86-6812-47cb-83e3-e4f2b6ad12ee",
-			"name": "2018 MouseSports Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "f07d3e0c-1fac-4bd5-a23c-6456dcc448bc",
-			"name": "2018 Faze Bundle",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "edebd4d4-fb1f-444d-b982-dbbfc9f7be74",
-			"name": "Smoke Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "c28253e9-6877-42a7-933b-55c4e44b2d3e",
-			"name": "Blitz Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "f208b25e-7968-493e-b832-1b4ddff2969d",
-			"name": "Nomad Esports Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "9f538cfd-71ed-4618-ba88-eb53be5b4088",
-			"name": "Kaid EU Major Set",
-			"category": "Pro leagues"
-		},
-		{
-			"id": "e28947d9-3614-4798-a57e-af3e4c6e80da",
-			"name": "Twitch Esports Set",
-			"category": "Pro leagues"
 		},
 		{
 			"id": "bc8f9c93-2bd2-40a2-ba73-bc20a40fa12a",
@@ -1115,11 +770,6 @@
 			"category": "Black Ice"
 		},
 		{
-			"id": "15a088bc-11e9-4b88-b483-219bbf6642ff",
-			"name": "Cav Elite",
-			"category": "Elites"
-		},
-		{
 			"id": "acd35071-196e-ff1d-382d-75a3e99faf18",
 			"name": "First Class Burglary",
 			"category": "Attachment Skins"
@@ -1150,24 +800,9 @@
 			"category": "Attachment Skins"
 		},
 		{
-			"id": "27f29759-06f8-f722-2df8-ac247036270b",
-			"name": "DarkZero 2021",
-			"category": "Pro leagues"
-		},
-		{
 			"id": "9b711174-526b-8b60-4a97-516b51b6ef53",
 			"name": "Full North Star",
 			"category": "Specialty"
-		},
-		{
-			"id": "c6bf543f-7c76-418b-b0c0-e733d971eae2",
-			"name": "Zofia Elite",
-			"category": "Elites"
-		},
-		{
-			"id": "88535cb7-0f56-477e-aa89-620f3872c2a0",
-			"name": "Ash Blackviper Elite",
-			"category": "Elites"
 		},
 		{
 			"id": "01f4eede-f200-4845-a307-5c6d15ecae43",
@@ -1393,6 +1028,191 @@
 			"id": "1b63de42-78b1-4945-b94f-b012ad84ff54",
 			"name": "M590A1 Racer",
 			"category": "Racer"
+			},
+{
+    "d55760df-bc7b-444c-bb5b-aa9eb87f8bf6":,
+        "name": "Pulse Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+},
+{
+    "c2ad3cad-4f98-4e57-814a-cb9da9903a34":,
+        "name": "Blitz Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+},
+{
+    "1e471284-cb22-4c37-b2bc-37bd3c3f40be":,
+        "name": "Frost Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+},
+{
+    "17937fed-f834-4729-bce4-d17636b437e7":,
+        "name": "Montagne Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+},
+{
+    "f6e6273f-24a4-4162-8529-f371baf70d51":,
+        "name": "Smoke Pro League - Y2S3",
+        "category": "Pro Leagues"
+},
+{
+    "45196581-f48b-47f1-ae12-73b2c1c10816":,
+        "name": "Hibana Pro League - Y2S3",
+        "category": "Pro Leagues"
+},
+{
+    "36248396-bd08-4adc-b658-b4719a24f858":,
+        "name": "Glaz Pro League - Y2S3",
+        "category": "Pro Leagues"
+},
+{
+    "b0feec3a-634b-4a7f-a29a-c2c3cb7a1a3b":,
+        "name": "Valkyrie Pro League - Y2S3",
+        "category": "Pro Leagues"
+},
+{
+    "6923d56c-be2d-459c-ae61-d37472d16268":,
+        "name": "Doc Pro League - Y2S4",
+        "category": "Pro Leagues"
+},
+{
+    "d505e9b6-1ecb-492f-80c1-b0a6f1f533ea":,
+        "name": "Mira Pro League - Y2S4",
+        "category": "Pro Leagues"
+},
+{
+    "1c94538d-9311-4c6b-98bf-cd0a20483558":,
+        "name": "Buck Pro League - Y2S4",
+        "category": "Pro Leagues"
+},
+{
+    "bac9e491-e09d-48a2-ad00-cef5e9668b00":,
+        "name": "Castle Pro League - Y2S4",
+        "category": "Pro Leagues"
+},
+{
+    "a84867c5-7923-4058-bdc4-3677047d8715":,
+        "name": "BlackBeard Pro League - Y3S1",
+        "category": "Pro Leagues"
+},
+{
+    "894f3887-00d5-40da-b6be-aed94a6b8347":,
+        "name": "Caviera Pro League - Y3S1",
+        "category": "Pro Leagues"
+},
+{
+    "1ce6b3b0-76af-4e37-939f-2660fff3f217":,
+        "name": "Ela Pro League - Y3S1",
+        "category": "Pro Leagues"
+},
+{
+    "244ba212-52e5-4c90-9353-0e601d73f2d4":,
+        "name": "Jackal Pro League - Y3S1",
+        "category": "Pro Leagues"
+},
+{
+    "28b6d2b9-a89b-4d3c-9862-42dcbb1e0096":,
+        "name": "Kapkan Pro League - Y3S2",
+        "category": "Pro Leagues"
+},
+{
+    "4da36252-6951-45c1-acd4-4788bd24c912":,
+        "name": "Echo Pro League - Y2S2",
+        "category": "Pro Leagues"
+},
+{
+    "ea8c690f-1aa6-42b6-be9f-6ad5ada0a119":,
+        "name": "Capitao Pro League - Y3S2",
+        "category": "Pro Leagues"
+},
+{
+    "767c7915-61a3-46d0-97a7-e612303cecc2":,
+        "name": "Lesion Pro League - Y3S2",
+        "category": "Pro Leagues"
+},
+{
+    "16dcb929-0e41-4e21-becd-d08594b2c0d4":,
+        "name": "Vigil Pro League - Y3S3",
+        "category": "Pro Leagues"
+},
+{
+    "9b07a014-f6e2-4992-82d5-1792665cb175":,
+        "name": "Zofia Pro League - Y3S3",
+        "category": "Pro Leagues"
+},
+{
+    "4205b334-a863-4325-b121-72773a16a467":,
+        "name": "Dokkaebi Pro League  - Y3S3",
+        "category": "Pro Leagues"
+},
+{
+    "9db8ba38-68ab-49c2-8f2f-4e79e497240f":,
+        "name": "Ying Pro League - Y3S3",
+        "category": "Pro Leagues"
+},
+{
+    "e3ec559a-f5d4-4aaf-941d-abb8e5b2f8a5":,
+        "name": "Alibi Pro League - Y3S4",
+        "category": "Pro Leagues"
+},
+{
+    "ea895465-0c5b-4f88-98a2-af877f58b637":,
+        "name": "Maestro Pro League - Y3S4",
+        "category": "Pro Leagues"
+},
+{
+    "ac2d66db-5cef-443e-8b8c-58c39edf3b53":,
+        "name": "Lion Pro League - Y3S4",
+        "category": "Pro Leagues"
+},
+{
+    "d127fbc8-a572-4ed1-8e19-61597753bf89":,
+        "name": "Finka Pro League - Y3S4",
+        "category": "Pro Leagues"
+},
+{
+    "d127fbc8-a572-4ed1-8e19-61597753bf89":,
+        "name": "Finka Pro League - Y3S4",
+        "category": "Pro Leagues"
+},
+{
+    "f3056b8f-1793-4da6-bc10-21d213bd7fbe":,
+        "name": "Kaid Pro League - Y4S1",
+        "category": "Pro Leagues"
+},
+{
+    "0056e8a6-e0d4-4a85-8a4a-537b4798ae76":,
+        "name": "Clash Pro League - Y4S1",
+        "category": "Pro Leagues"
+},
+{
+    "2c1d1fdd-acb4-4d76-b8ad-70569f9332df":,
+        "name": "Maverick Pro League - Y4S1",
+        "category": "Pro Leagues"
+},
+{
+    "db29cfe6-fb3c-4697-adb1-9e002744fdbb":,
+        "name": "Nomad Pro League - Y4S1",
+        "category": "Pro Leagues"
+},
+{
+    "5bbade8d-7207-41ad-8dad-0d2d7246cbd6":,
+        "name": "Gridlock Pro League - Y4S2",
+        "category": "Pro Leagues"
+},
+{
+    "eeedf33f-715c-42a5-8105-0105b26c7c4c":,
+        "name": "Mozzie Pro League - Y4S2",
+        "category": "Pro Leagues"
+},
+{
+    "db255a5d-be05-4945-9979-ec058beb77de":,
+        "name": "Ash Pro League - Y4S2",
+        "category": "Pro Leagues"
+},
+{
+    "2823e8a3-290b-4c82-b743-da3cefb4df0e":,
+        "name": "Rook Pro League - Y4S2",
+        "category": "Pro Leagues"
 		}
 	]
 }
