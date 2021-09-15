@@ -1421,7 +1421,7 @@
 {
 			"id": "9ef71262-515b-46e8-b9a8-b6b6ad456c67",
 			"name": "R6 Credits:",
-                        "quantity": quantity
+                        "quantity": (quantity)
 			"category": "Specialty"
 		}
 	]
