@@ -1030,362 +1030,361 @@
 			"category": "Racer"
 			},
 {
-    "id":"d55760df-bc7b-444c-bb5b-aa9eb87f8bf6":,
+    "id":"d55760df-bc7b-444c-bb5b-aa9eb87f8bf6",
         "name": "Pulse Rojigualda - Y2S1",
         "category": "Pro Leagues"
 },
 {
-    	"id":"c2ad3cad-4f98-4e57-814a-cb9da9903a34":,
+    	"id":"c2ad3cad-4f98-4e57-814a-cb9da9903a34",
         "name": "Blitz Rojigualda - Y2S1",
         "category": "Pro Leagues"
 },
 {
-    	"id":"1e471284-cb22-4c37-b2bc-37bd3c3f40be":,
+    	"id":"1e471284-cb22-4c37-b2bc-37bd3c3f40be",
         "name": "Frost Rojigualda - Y2S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "17937fed-f834-4729-bce4-d17636b437e7":,
+   	"id": "17937fed-f834-4729-bce4-d17636b437e7",
         "name": "Montagne Rojigualda - Y2S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "f6e6273f-24a4-4162-8529-f371baf70d51":,
+   	"id": "f6e6273f-24a4-4162-8529-f371baf70d51",
         "name": "Smoke Pro League - Y2S3",
         "category": "Pro Leagues"
 },
 {
-    	"id":"45196581-f48b-47f1-ae12-73b2c1c10816":,
+    	"id":"45196581-f48b-47f1-ae12-73b2c1c10816",
         "name": "Hibana Pro League - Y2S3",
         "category": "Pro Leagues"
 },
 {
-   	"id": "36248396-bd08-4adc-b658-b4719a24f858":,
+   	"id": "36248396-bd08-4adc-b658-b4719a24f858",
         "name": "Glaz Pro League - Y2S3",
         "category": "Pro Leagues"
 },
 {
-    	"id":"b0feec3a-634b-4a7f-a29a-c2c3cb7a1a3b":,
+    	"id":"b0feec3a-634b-4a7f-a29a-c2c3cb7a1a3b",
         "name": "Valkyrie Pro League - Y2S3",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "6923d56c-be2d-459c-ae61-d37472d16268":,
+  	"id":  "6923d56c-be2d-459c-ae61-d37472d16268",
         "name": "Doc Pro League - Y2S4",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "d505e9b6-1ecb-492f-80c1-b0a6f1f533ea":,
+  	"id":  "d505e9b6-1ecb-492f-80c1-b0a6f1f533ea",
         "name": "Mira Pro League - Y2S4",
         "category": "Pro Leagues"
 },
 {
-   	"id": "1c94538d-9311-4c6b-98bf-cd0a20483558":,
+   	"id": "1c94538d-9311-4c6b-98bf-cd0a20483558",
         "name": "Buck Pro League - Y2S4",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "bac9e491-e09d-48a2-ad00-cef5e9668b00":,
+  	"id":  "bac9e491-e09d-48a2-ad00-cef5e9668b00",
         "name": "Castle Pro League - Y2S4",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "a84867c5-7923-4058-bdc4-3677047d8715":,
+  	"id":  "a84867c5-7923-4058-bdc4-3677047d8715",
         "name": "BlackBeard Pro League - Y3S1",
         "category": "Pro Leagues"
 },
 {
- 	"id":   "894f3887-00d5-40da-b6be-aed94a6b8347":,
+ 	"id":   "894f3887-00d5-40da-b6be-aed94a6b8347",
         "name": "Caviera Pro League - Y3S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "1ce6b3b0-76af-4e37-939f-2660fff3f217":,
+   	"id": "1ce6b3b0-76af-4e37-939f-2660fff3f217",
         "name": "Ela Pro League - Y3S1",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "244ba212-52e5-4c90-9353-0e601d73f2d4":,
+  	"id":  "244ba212-52e5-4c90-9353-0e601d73f2d4",
         "name": "Jackal Pro League - Y3S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "28b6d2b9-a89b-4d3c-9862-42dcbb1e0096":,
+   	"id": "28b6d2b9-a89b-4d3c-9862-42dcbb1e0096",
         "name": "Kapkan Pro League - Y3S2",
         "category": "Pro Leagues"
 },
 {
-   	"id": "4da36252-6951-45c1-acd4-4788bd24c912":,
+   	"id": "4da36252-6951-45c1-acd4-4788bd24c912",
         "name": "Echo Pro League - Y2S2",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "ea8c690f-1aa6-42b6-be9f-6ad5ada0a119":,
+  	"id":  "ea8c690f-1aa6-42b6-be9f-6ad5ada0a119",
         "name": "Capitao Pro League - Y3S2",
-        "category": "Pro Leagues"
-},
+        "category": "Pro Leagues"},
 {
-   	"id": "767c7915-61a3-46d0-97a7-e612303cecc2":,
+   	"id": "767c7915-61a3-46d0-97a7-e612303cecc2",
         "name": "Lesion Pro League - Y3S2",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "16dcb929-0e41-4e21-becd-d08594b2c0d4":,
+  	"id":  "16dcb929-0e41-4e21-becd-d08594b2c0d4",
         "name": "Vigil Pro League - Y3S3",
         "category": "Pro Leagues"
 },
 {
-   	"id": "9b07a014-f6e2-4992-82d5-1792665cb175":,
+   	"id": "9b07a014-f6e2-4992-82d5-1792665cb175",
         "name": "Zofia Pro League - Y3S3",
         "category": "Pro Leagues"
 },
 {
-   	"id": "4205b334-a863-4325-b121-72773a16a467":,
+   	"id": "4205b334-a863-4325-b121-72773a16a467",
         "name": "Dokkaebi Pro League  - Y3S3",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "9db8ba38-68ab-49c2-8f2f-4e79e497240f":,
+  	"id":  "9db8ba38-68ab-49c2-8f2f-4e79e497240f",
         "name": "Ying Pro League - Y3S3",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "e3ec559a-f5d4-4aaf-941d-abb8e5b2f8a5":,
+  	"id":  "e3ec559a-f5d4-4aaf-941d-abb8e5b2f8a5",
         "name": "Alibi Pro League - Y3S4",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "ea895465-0c5b-4f88-98a2-af877f58b637":,
+  	"id":  "ea895465-0c5b-4f88-98a2-af877f58b637",
         "name": "Maestro Pro League - Y3S4",
         "category": "Pro Leagues"
 },
 {
-   	"id": "ac2d66db-5cef-443e-8b8c-58c39edf3b53":,
+   	"id": "ac2d66db-5cef-443e-8b8c-58c39edf3b53",
         "name": "Lion Pro League - Y3S4",
         "category": "Pro Leagues"
 },
 {
-   	"id": "d127fbc8-a572-4ed1-8e19-61597753bf89":,
+   	"id": "d127fbc8-a572-4ed1-8e19-61597753bf89",
         "name": "Finka Pro League - Y3S4",
         "category": "Pro Leagues"
 },
 {
-   	"id": "d127fbc8-a572-4ed1-8e19-61597753bf89":,
+   	"id": "d127fbc8-a572-4ed1-8e19-61597753bf89",
         "name": "Finka Pro League - Y3S4",
         "category": "Pro Leagues"
 },
 {
-   	"id": "f3056b8f-1793-4da6-bc10-21d213bd7fbe":,
+   	"id": "f3056b8f-1793-4da6-bc10-21d213bd7fbe",
         "name": "Kaid Pro League - Y4S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "0056e8a6-e0d4-4a85-8a4a-537b4798ae76":,
+   	"id": "0056e8a6-e0d4-4a85-8a4a-537b4798ae76",
         "name": "Clash Pro League - Y4S1",
         "category": "Pro Leagues"
 },
 {
-    	"id":"2c1d1fdd-acb4-4d76-b8ad-70569f9332df":,
+    	"id":"2c1d1fdd-acb4-4d76-b8ad-70569f9332df",
         "name": "Maverick Pro League - Y4S1",
         "category": "Pro Leagues"
 },
 {
-   	"id": "db29cfe6-fb3c-4697-adb1-9e002744fdbb":,
+   	"id": "db29cfe6-fb3c-4697-adb1-9e002744fdbb",
         "name": "Nomad Pro League - Y4S1",
         "category": "Pro Leagues"
 },
 {
-    	"id":"5bbade8d-7207-41ad-8dad-0d2d7246cbd6":,
+    	"id":"5bbade8d-7207-41ad-8dad-0d2d7246cbd6",
         "name": "Gridlock Pro League - Y4S2",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "eeedf33f-715c-42a5-8105-0105b26c7c4c":,
+  	"id":  "eeedf33f-715c-42a5-8105-0105b26c7c4c",
         "name": "Mozzie Pro League - Y4S2",
         "category": "Pro Leagues"
 },
 {
-  	"id":  "db255a5d-be05-4945-9979-ec058beb77de":,
+  	"id":  "db255a5d-be05-4945-9979-ec058beb77de",
         "name": "Ash Pro League - Y4S2",
         "category": "Pro Leagues"
 },
 {
-   	"id": "2823e8a3-290b-4c82-b743-da3cefb4df0e":,
+   	"id": "2823e8a3-290b-4c82-b743-da3cefb4df0e",
         "name": "Rook Pro League - Y4S2",
         "category": "Pro Leagues"
 },
 {
-       	"id": "fdb2e768-0188-4cde-b2e1-0a57845e0ec7":,
+       	"id": "fdb2e768-0188-4cde-b2e1-0a57845e0ec7",
         "name": "Ash Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "f5be45b8-6ed6-ce50-deae-134ae3c00628":,
+   	"id": "f5be45b8-6ed6-ce50-deae-134ae3c00628",
         "name": "Mozzie Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "f000a988-31a7-4de9-bda0-a831b2f278a7":,
+   	"id": "f000a988-31a7-4de9-bda0-a831b2f278a7",
         "name": "Bandit Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "df5309f6-9fdd-4462-b3e2-b7905c1d11c2":,
+  	"id":  "df5309f6-9fdd-4462-b3e2-b7905c1d11c2",
         "name": "Valkyrie Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "de5e7eec-82be-4e72-a89f-524489d6819a":,
+  	"id":  "de5e7eec-82be-4e72-a89f-524489d6819a",
         "name": "Echo Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "dc81a3d8-62b9-4e19-9156-602d8c66d0fa":,
+  	"id":  "dc81a3d8-62b9-4e19-9156-602d8c66d0fa",
         "name": "Thermite Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "ce5ab23a-e637-4fd0-bd6a-989491fb23fd":,
+   	"id": "ce5ab23a-e637-4fd0-bd6a-989491fb23fd",
         "name": "Ela Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "cdacdd59-b363-4a30-95e4-2a8f98bd0818":,
+   	"id": "cdacdd59-b363-4a30-95e4-2a8f98bd0818",
         "name": "Jackal Elite",
         "category": "Elites"
 }, 
 {
-    	"id":"c6bf543f-7c76-418b-b0c0-e733d971eae2":,
+    	"id":"c6bf543f-7c76-418b-b0c0-e733d971eae2",
         "name": "Zofia Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "c3214c47-619b-424a-8eb2-67ddedb4bf14":,
+  	"id":  "c3214c47-619b-424a-8eb2-67ddedb4bf14",
         "name": "Fuze Elite",
         "category": "Elites"
 }, 
 {
-  	"id": "b8e221ae-d264-4eca-bc23-e85431d20ae9":,
+  	"id": "b8e221ae-d264-4eca-bc23-e85431d20ae9",
         "name": "Smoke Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "ae5fd5de-6e19-44d4-8967-5eb7d9905873":,
+   	"id": "ae5fd5de-6e19-44d4-8967-5eb7d9905873",
         "name": "Kapkan Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "a73558bb-12e1-4535-98ff-fec6ba48bc9c":,
+  	"id":  "a73558bb-12e1-4535-98ff-fec6ba48bc9c",
         "name": "Mira Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "9413fdef-c562-4501-8e49-ca9a58f9e8f1":,
+   	"id": "9413fdef-c562-4501-8e49-ca9a58f9e8f1",
         "name": "Kali Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "92bf2759-70ea-4415-b65c-d2145e4644c5":,
+  	"id":  "92bf2759-70ea-4415-b65c-d2145e4644c5",
         "name": "Tachanka Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "875fe069-b3f1-42b8-a121-fca574acc063":,
+   	"id": "875fe069-b3f1-42b8-a121-fca574acc063",
         "name": "Capitao Elite",
         "category": "Elites"
 }, 
 {
-    	"id":"801c58d7-39fe-4fe7-9613-85f0c60f0dba":,
+    	"id":"801c58d7-39fe-4fe7-9613-85f0c60f0dba",
         "name": "Rook Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "7edb71ad-5a78-4348-bc01-8eb1b763f69e":,
+   	"id": "7edb71ad-5a78-4348-bc01-8eb1b763f69e",
         "name": "Dokkaebi Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "7edb71ad-5a78-4348-bc01-8eb1b763f69e":,
+  	"id":  "7edb71ad-5a78-4348-bc01-8eb1b763f69e",
         "name": "Glaz Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "7a2c53bc-fa0d-4fab-9378-2903383ee7d5":,
+  	"id":  "7a2c53bc-fa0d-4fab-9378-2903383ee7d5",
         "name": "Jager Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "74c917e8-97c0-4480-8264-336d5f6e6f93":,
+   	"id": "74c917e8-97c0-4480-8264-336d5f6e6f93",
         "name": "Sledge Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "6f1e6654-c1a1-45c1-a81e-16dac0008b08":,
+  	"id":  "6f1e6654-c1a1-45c1-a81e-16dac0008b08",
         "name": "Doc Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "6e6422ec-cf39-407a-8090-16383759078e":,
+   	"id": "6e6422ec-cf39-407a-8090-16383759078e",
         "name": "IQ Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "6a85a3c5-797e-4ef8-b8d9-ba99fe7bace0":,
+   	"id": "6a85a3c5-797e-4ef8-b8d9-ba99fe7bace0",
         "name": "Lesion Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "64aafaa9-44bd-4935-5515-7efc97aa35c0":,
+  	"id":  "64aafaa9-44bd-4935-5515-7efc97aa35c0",
         "name": "Lion Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "5fc46f3e-0c97-4029-8cac-b36055c50903":,
+  	"id":  "5fc46f3e-0c97-4029-8cac-b36055c50903",
         "name": "BlackBeard Elite",
         "category": "Elites"
 }, 
 {
-   	"id": "484c1c24-26e2-4512-bea1-f2d24b2a6004":,
+   	"id": "484c1c24-26e2-4512-bea1-f2d24b2a6004",
         "name": "Buck Elite",
         "category": "Elites"
 }, 
 {
- 	"id":   "46cf8cea-eab8-4694-93e0-a0252a57d58c":,
+ 	"id":   "46cf8cea-eab8-4694-93e0-a0252a57d58c",
         "name": "Mute Elite",
         "category": "Elites"
 }, 
 {
- 	"id":   "4333d8a4-d167-423c-a3cf-a07abc0e3f44":,
+ 	"id":   "4333d8a4-d167-423c-a3cf-a07abc0e3f44",
         "name": "Twitch Elite",
         "category": "Elites"
 }, 
 {
- 	"id":   "3dece6b6-a465-4972-88b1-d59a2c9760b7":,
+ 	"id":   "3dece6b6-a465-4972-88b1-d59a2c9760b7",
         "name": "Hibana Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "382e68e4-b6e6-44dd-8b8a-bf4329204726":,
+  	"id":  "382e68e4-b6e6-44dd-8b8a-bf4329204726",
         "name": "Maverick Elite",
         "category": "Elites"
 }, 
 {
-    	"id":"2f2ad9a1-d1e3-4abc-8ee6-26aae27baaa3":,
+    	"id":"2f2ad9a1-d1e3-4abc-8ee6-26aae27baaa3",
         "name": "Blitz Elite",
         "category": "Elites"
 }, 
 {
-	"id":    "2f22e5a4-4a6a-4566-a2f6-68acf2dab036":,
+	"id":    "2f22e5a4-4a6a-4566-a2f6-68acf2dab036",
         "name": "Zofia New Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "28b8b2d7-f9cc-45de-8c63-2c953e5adba8":,
+  	"id":  "28b8b2d7-f9cc-45de-8c63-2c953e5adba8",
         "name": "Pulse Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "1bf09ad4-3388-4a4a-baef-0473881d86a7":,
+  	"id":  "1bf09ad4-3388-4a4a-baef-0473881d86a7",
         "name": "Frost Elite"
         "category": "Elites"
 }, 
@@ -1395,12 +1394,12 @@
         "category": "Elites"
 }, 
 {
-  	"id":  "1312f6d3-a7bd-496c-b1a4-f93d1962e8d0":,
+  	"id":  "1312f6d3-a7bd-496c-b1a4-f93d1962e8d0",
         "name": "Thatcher Elite",
         "category": "Elites"
 }, 
 {
-  	"id":  "03c36614-63ee-4a15-8a6a-29c9de988db8":,
+  	"id":  "03c36614-63ee-4a15-8a6a-29c9de988db8",
         "name": "Ash Elite (Tombraider)",
         "category": "Elites"
 		}
