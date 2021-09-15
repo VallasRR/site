@@ -1417,6 +1417,11 @@
 			"id": "0bb84898-3633-4858-98b6-2de41d63bca6",
 			"name": "Fake Paris Major (EU Major)",
 			"category": "Charms"
+},
+	{
+			"id": "9e24c142-e9ff-4ca9-ae49-af5027985344",
+			"name": "2018 Paris Major Attendee",
+			"category": "Charms"
 		}
 	]
 }
