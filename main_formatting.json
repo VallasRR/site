@@ -1444,6 +1444,16 @@
       "id": "f3542136-fbc3-09aa-21c9-9c9c6f324de0",
       "name": "3 Day Boosters: {quantity}",
       "category": "Extras"
+    },
+    {
+      "id": "56ccd8ff-20a1-4b24-8943-fe6af8b04d21",
+      "name": "Six Invitational Attendee 2017",
+      "category": "Charms"
+    },
+    {
+      "id": "7d6dd7e1-9bab-4b39-9b64-9d343b792f8b",
+      "name": "Six Invitational Attendee 2018",
+      "category": "Charms"
     }
   ]
 }
