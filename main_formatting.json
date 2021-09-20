@@ -1422,27 +1422,27 @@
     },
     {
       "id": "61467f3b-c1a5-45de-b738-ef59ab9339ff",
-      "name": "Renown: {quantity}.",
+      "name": "Renown: {quantity}",
       "category": "Extras"
     },
     {
       "id": "9ef71262-515b-46e8-b9a8-b6b6ad456c67",
-      "name": "R6 Credits: {quantity}.",
+      "name": "R6 Credits: {quantity}",
       "category": "Extras"
     },
     {
       "id": "c3b8efbc-7534-44a3-b57d-e2a8fd8424fb",
-      "name": "1 Day Boosters: {quantity}.",
+      "name": "1 Day Boosters: {quantity}",
       "category": "Extras"
     },
     {
       "id": "bb0bb4ca-fa18-4600-b5d0-2ec8c15abc20",
-      "name": "7 Day Boosters: {quantity}.",
+      "name": "7 Day Boosters: {quantity}",
       "category": "Extras"
     },
     {
       "id": "f3542136-fbc3-09aa-21c9-9c9c6f324de0",
-      "name": "3 Day Boosters: {quantity}.",
+      "name": "3 Day Boosters: {quantity}",
       "category": "Extras"
     }
   ]
