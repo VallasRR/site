@@ -191,21 +191,6 @@
       "category": "Specialty"
     },
     {
-      "id": "fb03940c-15ef-48ce-8631-84e71de5e27f",
-      "name": "3 Day Booster",
-      "category": "Boosters"
-    },
-    {
-      "id": "c3b8efbc-7534-44a3-b57d-e2a8fd8424fb",
-      "name": "1 Day Booster",
-      "category": "Boosters"
-    },
-    {
-      "id": "bb0bb4ca-fa18-4600-b5d0-2ec8c15abc20",
-      "name": "7 Day Booster",
-      "category": "Boosters"
-    },
-    {
       "id": "542e4687-6587-4466-b50b-20010e32f7fd",
       "name": "Amazonia",
       "category": "Seasonals"
@@ -1426,14 +1411,24 @@
       "category": "Charms"
     },
     {
-			"id": "f11cb11c-f697-9e85-894a-76ec506ac9c1",
-			"name": "Gold (Wisdom and Hospitality)",
-			"category": "Attachment Skins"
+      "id": "f11cb11c-f697-9e85-894a-76ec506ac9c1",
+      "name": "Gold (Wisdom and Hospitality)",
+      "category": "Attachment Skins"
     },
-	     {
+    {
       "id": "39822032-44e8-4bea-8974-9aecada83ff1",
       "name": "2019 Raleigh Major Attendee",
       "category": "Charms"
+    },
+    {
+      "id": "61467f3b-c1a5-45de-b738-ef59ab9339ff",
+      "name": "Renown: {quantity}.",
+      "category": "Extras"
+    },
+    {
+      "id": "9ef71262-515b-46e8-b9a8-b6b6ad456c67",
+      "name": "R6 Credits: {quantity}.",
+      "category": "Extras"
     }
   ]
 }
