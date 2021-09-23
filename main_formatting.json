@@ -1458,7 +1458,17 @@
     {
       "id": "78279207-242d-49a4-9dad-c56e98aebf7b",
       "name": "Ash Pro League - Y4S2",
-      "category": "Pro leagues"
+      "category": "Pro Leagues"
+            },
+    {
+      "id": "78279207-242d-49a4-9dad-c56e98aebf7b",
+      "name": "Ash Pro League - Y4S2",
+      "category": "Pro Leagues"
+                  },
+    {
+      "id": "6074af9c-ec0d-47a4-a88c-43bb6e6af995",
+      "name": "Bandit Pro League - Y5S2",
+      "category": "Pro Leagues"
     }
   ]
 }
