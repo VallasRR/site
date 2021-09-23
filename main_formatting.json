@@ -1524,6 +1524,16 @@
       "id": "0acdbb51-6998-9c05-eaf0-9d0078c6e619",
       "name": "Kapkan Full Outbreak",
       "category": "Outbreak"
+                                          },
+    {
+      "id": "af1c79b8-9fdd-4d8e-a62b-b5b0816e7728",
+      "name": "SI 2020 Light Sledge",
+      "category": "Specialty"
+                                                },
+    {
+      "id": "7b0b8298-282c-49db-6658-ccb4cb054f44",
+      "name": "Fake Raleigh Attendee (Castle Bundle)",
+      "category": "Charms"
     }
   ]
 }
