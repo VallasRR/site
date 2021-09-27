@@ -247,7 +247,7 @@
     },
     {
       "id": "ab66d358-c927-4b66-8f91-d648b4337277",
-      "name": "Skull Rain",
+      "name": "Azeljuos",
       "category": "Seasonals"
     },
     {
@@ -1556,11 +1556,6 @@
       "category": "Seasonals"
     },
     {
-      "id": "ab66d358-c927-4b66-8f91-d648b4337277",
-      "name": "Skull Rain C",
-      "category": "Seasonals"
-    },
-    {
       "id": "a6c55510-f99f-4dd3-aeb7-4243b95ddec7",
       "name": "Sovereign",
       "category": "Seasonals"
@@ -1581,9 +1576,79 @@
       "category": "Attachment Skins"
     },
     {
-      "id": "536a913b-a855-62cb-cabf-587d0207cea8",
-      "name": "Thermal Antipodes",
-      "category": "Attachment Skins"
+      "id": "df1bb244-eba8-4461-9745-8a1cb29d923a",
+      "name": "Feral",
+      "category": "Seasonals"
+    },
+    {
+      "id": "498a61de-9172-45b2-8034-2a623e11ffaa",
+      "name": "Beach Trip",
+      "category": "Seasonals"
+    },
+    {
+      "id": "3a153831-922c-4ec9-b455-417b65051c31",
+      "name": "Baroque Exalted",
+      "category": "Seasonals"
+    },
+    {
+      "id": "90e4e065-27cf-4523-b2f3-a1a3d1177f25",
+      "name": "Painted Floral",
+      "category": "Seasonals"
+    },
+    {
+      "id": "0489ac58-397f-4296-864c-654dc66f7206",
+      "name": "Phoenix",
+      "category": "Seasonals"
+    },
+    {
+      "id": "15d9a1b0-e79a-6751-e9ff-35ab23afed93",
+      "name": "Prismatic Glisten",
+      "category": "Seasonals"
+    },
+    {
+      "id": "ef00478c-7153-4a17-8a41-43b9d2443104",
+      "name": "Retro Steel",
+      "category": "Seasonals"
+    },
+    {
+      "id": "99a1123b-ca24-4c52-bc93-81659a0d2b37",
+      "name": "River Scale",
+      "category": "Seasonals"
+    },
+    {
+      "id": "546633c8-514d-30ea-1643-2c6107108cf1",
+      "name": "Search and Rescue",
+      "category": "Seasonals"
+    },
+    {
+      "id": "027f8be1-396e-4234-817b-d035b634f588",
+      "name": "Tiger Claw",
+      "category": "Seasonals"
+    },
+    {
+      "id": "2f43ebca-5663-456a-8f9a-898920dd2c50",
+      "name": "Velveteen",
+      "category": "Seasonals"
+    },
+    {
+      "id": "22cb499d-fea9-4ac4-9684-e5fd24d0b7be",
+      "name": "Whitehall 1212",
+      "category": "Seasonals"
+    },
+    {
+      "id": "a77ead5b-5466-4b29-9258-3f7367edc521",
+      "name": "Wooden Carvings",
+      "category": "Seasonals"
+    },
+    {
+      "id": "ed359860-2584-445d-b332-53748a1c995f",
+      "name": "Renaissance",
+      "category": "Seasonals"
+    },
+    {
+      "id": "22cb499d-fea9-4ac4-9684-e5fd24d0b7be",
+      "name": "Whitehall 1212",
+      "category": "Seasonals"
     }
   ]
 }
