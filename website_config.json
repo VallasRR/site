@@ -7,7 +7,7 @@
       {"name": "TWITCH", "href": "https://twitch.tv/idealsr6"},
       {"name": "TAB", "href": "https://tabstats.com/siege/player/moscow/730016f3-2ce3-400c-9762-70348f4bfff9"},
       {"name": "LOOKUP", "href": "http://ideals.life/u"},
-      {"name": "BOT", "href": "https://discord.com/api/oauth2/authorize?client_id=799511314568839189&permissions=8&scope=bot"}
+      {"name": "BOT", "href": "https://discord.com/api/oauth2/authorize?client_id=799511314568839189&permissions=92160&scope=bot"}
       ]
     
   }
