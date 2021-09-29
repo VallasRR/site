@@ -1649,6 +1649,16 @@
       "id": "22cb499d-fea9-4ac4-9684-e5fd24d0b7be",
       "name": "Whitehall 1212",
       "category": "Seasonals"
+          },
+    {
+      "id": "7d27fc6a-5ba8-4ac5-bbc2-9541951f2ce4",
+      "name": "Six Invitational 2020",
+      "category": "Charms"
+          },
+    {
+      "id": "30fb55a3-1eb3-433e-9b4c-3ecc14e87b7e",
+      "name": "Pro League Charm",
+      "category": "Charms"
     }
   ]
 }
