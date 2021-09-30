@@ -1,4 +1,4 @@
-{
+l {
   "items": [
     {
       "id": "f619eb19-de6e-4dcd-96eb-08b45f80fe64",
@@ -292,7 +292,7 @@
     },
     {
       "id": "7636a2cf-b53e-45d5-90e5-441c42442d90",
-      "name": "Universal Purple",
+      "name": "Chroma Streaks (Purple)",
       "category": "Attachment Skins"
     },
     {
@@ -1593,157 +1593,4 @@
     {
       "id": "90e4e065-27cf-4523-b2f3-a1a3d1177f25",
       "name": "Painted Floral",
-      "category": "Seasonals"
-    },
-    {
-      "id": "0489ac58-397f-4296-864c-654dc66f7206",
-      "name": "Phoenix",
-      "category": "Seasonals"
-    },
-    {
-      "id": "15d9a1b0-e79a-6751-e9ff-35ab23afed93",
-      "name": "Prismatic Glisten",
-      "category": "Seasonals"
-    },
-    {
-      "id": "ef00478c-7153-4a17-8a41-43b9d2443104",
-      "name": "Retro Steel",
-      "category": "Seasonals"
-    },
-    {
-      "id": "99a1123b-ca24-4c52-bc93-81659a0d2b37",
-      "name": "River Scale",
-      "category": "Seasonals"
-    },
-    {
-      "id": "546633c8-514d-30ea-1643-2c6107108cf1",
-      "name": "Search and Rescue",
-      "category": "Seasonals"
-    },
-    {
-      "id": "027f8be1-396e-4234-817b-d035b634f588",
-      "name": "Tiger Claw",
-      "category": "Seasonals"
-    },
-    {
-      "id": "2f43ebca-5663-456a-8f9a-898920dd2c50",
-      "name": "Velveteen",
-      "category": "Seasonals"
-    },
-    {
-      "id": "22cb499d-fea9-4ac4-9684-e5fd24d0b7be",
-      "name": "Whitehall 1212",
-      "category": "Seasonals"
-    },
-    {
-      "id": "a77ead5b-5466-4b29-9258-3f7367edc521",
-      "name": "Wooden Carvings",
-      "category": "Seasonals"
-    },
-    {
-      "id": "ed359860-2584-445d-b332-53748a1c995f",
-      "name": "Renaissance",
-      "category": "Seasonals"
-    },
-    {
-      "id": "22cb499d-fea9-4ac4-9684-e5fd24d0b7be",
-      "name": "Whitehall 1212",
-      "category": "Seasonals"
-          },
-    {
-      "id": "7d27fc6a-5ba8-4ac5-bbc2-9541951f2ce4",
-      "name": "Six Invitational 2020",
-      "category": "Charms"
-          },
-    {
-      "id": "30fb55a3-1eb3-433e-9b4c-3ecc14e87b7e",
-      "name": "Pro League Charm",
-      "category": "Charms"
-                },
-    {
-      "id": "0ec60239-b780-466b-9201-b77d390f965a",
-      "name": "Ancestral Southwest",
-      "category": "Seasonals"
-                },
-    {
-      "id": "39d0a2d0-90c7-41ae-9e66-5ce53cb99137",
-      "name": "Ancient Marble",
-      "category": "Seasonals"
-                },
-    {
-      "id": "f327d5bd-6259-4568-9107-0be13ba84a44",
-      "name": "Austral",
-      "category": "Seasonals"
-                },
-    {
-      "id": " 8e0c4fa0-963b-4ecf-811a-bab2958c355e",
-      "name": "Board Cove",
-      "category": "Seasonals"
-                },
-    {
-      "id": "c9ef4b16-4ac3-4317-a655-76664f34b750",
-      "name": "Clog Dance",
-      "category": "Seasonals"
-                },
-    {
-      "id": "0de74a3a-fe6c-46fd-9217-3e32ce705de8",
-      "name": "Crocodylus",
-      "category": "Seasonals"
-                },
-    {
-      "id": "a29fbfc2-fe56-46f5-a5e5-9b14e3db6800",
-      "name": "Deco Artistry",
-      "category": "Seasonals"
-                },
-    {
-      "id": "ee5940c9-434d-4880-a060-c4806e612ff1",
-      "name": "Eternal Sun",
-      "category": "Seasonals"
-                },
-    {
-      "id": "3d894ec6-6ddd-4c1f-9be8-1b5f7f2b1ccc",
-      "name": "Eternal Wind",
-      "category": "Seasonals"
-                },
-    {
-      "id": "4cf8bb88-6b03-4c64-b882-13045fa03949",
-      "name": "Ocean's Teeth",
-      "category": "Seasonals"
-                },
-    {
-      "id": "21ca4011-d410-4a58-833a-56fab3f432c5",
-      "name": "Particle Robotics",
-      "category": "Seasonals"
-                },
-    {
-      "id": "dc999a4b-6fb1-4fc4-9fb9-641ac5937f3a",
-      "name": "Plinky's Arcade",
-      "category": "Seasonals"
-                },
-    {
-      "id": "15d9a1b0-e79a-6751-e9ff-35ab23afed93",
-      "name": "Primsmatic Glisten",
-      "category": "Seasonals"
-                },
-    {
-      "id": "1b2cabb5-5040-45a6-83af-07e783f838f4",
-      "name": "Rusty Trigger",
-      "category": "Seasonals"
-                      },
-    {
-      "id": "2de68fb0-f77a-4c4d-8518-52e8b605a8b9",
-      "name": "Saber Carve",
-      "category": "Seasonals"
-                      },
-    {
-      "id": "546633c8-514d-30ea-1643-2c6107108cf1",
-      "name": "Search & Rescue",
-      "category": "Seasonals"
-                      },
-    {
-      "id": "3b2fcaaa-6ce7-4b97-814b-6a991be89adf",
-      "name": "Strike Force",
-      "category": "Seasonals"
-    }
-  ]
-}
+      
