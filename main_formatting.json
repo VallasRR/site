@@ -1549,6 +1549,231 @@
       "id": "f52192fa-4a90-4158-bf14-2b04f8702412",
       "name": "MP5",
       "category": "Black Ice"
+               },
+    {
+      "id": "beee8734-300e-47df-b5b3-1a95f77cfd56",
+      "name": "OTs-03",
+      "category": "Dust Line"
+         },
+    {
+      "id": "1cd4d0cd-f4fe-4685-a40e-a24486c56ed6",
+      "name": "L85A2",
+      "category": "Dust Line"
+         },
+    {
+      "id": "a99ed276-cbf2-41ee-9feb-3358b5ef6860",
+      "name": "MP5",
+      "category": "Dust Line"
+         },
+    {
+      "id": "9ef8d38b-02df-4fac-9318-5d0ade62b0ef",
+      "name": "556XI",
+      "category": "Dust Line"
+         },
+    {
+      "id": "ff5dbad5-6c49-43ad-9bdc-5f6089fc8235",
+      "name": "Mk_17_CQB",
+      "category": "Dust Line"
+         },
+    {
+      "id": "6bc83799-c079-4ae9-a327-3b56b5c6a342",
+      "name": "MP7",
+      "category": "Dust Line"
+         },
+    {
+      "id": "acfdeb97-dedf-4e02-9fbd-014a3340c2f8",
+      "name": "G36C",
+      "category": "Dust Line"
+         },
+    {
+      "id": "dd24ec9c-44d6-499a-9d01-61ccd11de239",
+      "name": "9mm_C1",
+      "category": "Dust Line"
+         },
+    {
+      "id": "a156a2b7-b40e-4ea6-bc69-a842733e1096",
+      "name": "6P41",
+      "category": "Dust Line"
+         },
+    {
+      "id": "e5ed4af5-5b12-41d9-8a23-9a6de41c9969",
+      "name": "M1014",
+      "category": "Dust Line"
+         },
+    {
+      "id": "d2113f31-6d4e-4725-b712-a3bdec0cd862",
+      "name": "PMM",
+      "category": "Dust Line"
+         },
+    {
+      "id": "a71611d6-913a-4122-8e86-98702ec2e7c0",
+      "name": "SPAS 12",
+      "category": "Dust Line"
+         },
+    {
+      "id": "d2fc1d2e-9a90-4492-b0e4-99e22ca9fc9e",
+      "name": "SMG 11",
+      "category": "Dust Line"
+         },
+    {
+      "id": "cfeff27e-d0bb-4369-be9e-25fcc9eee906",
+      "name": "552 Commando",
+      "category": "Dust Line"
+         },
+    {
+      "id": "cec6f5b9-1341-47b7-96c1-70d0a8ee598b",
+      "name": "AUG",
+      "category": "Dust Line"
+         },
+    {
+      "id": "9d055dca-95a8-41aa-8fce-8dc06d0f1b49",
+      "name": "SG-CQB",
+      "category": "Dust Line"
+         },
+    {
+      "id": "5a01133c-04a0-4ece-bbcd-25d48ba4743d",
+      "name": "P226",
+      "category": "Dust Line"
+         },
+    {
+      "id": "6e27c163-06d4-4315-a3a5-5374bcb56521",
+      "name": "P90",
+      "category": "Dust Line"
+         },
+    {
+      "id": "7d5980a3-d835-461b-935e-7ec32fb2f4f3",
+      "name": "GSH18",
+      "category": "Dust Line"
+         },
+    {
+      "id": "479a0419-15d0-4b71-83fe-2a8cc196835a",
+      "name": "MPX",
+      "category": "Dust Line"
+         },
+    {
+      "id": "b2a66b7d-896e-447e-bef2-fe549edacf5b",
+      "name": "G8A1",
+      "category": "Dust Line"
+         },
+    {
+      "id": "c1d831bf-cfc1-4202-bc3c-b2259e13b5f2",
+      "name": "LFP586",
+      "category": "Dust Line"
+         },
+    {
+      "id": "4a40da83-4121-44e6-969d-7ec7f37bda7d",
+      "name": "MP5K",
+      "category": "Dust Line"
+         },
+    {
+      "id": "371cb126-7362-41e8-be4e-8f233b407ca9",
+      "name": "M870",
+      "category": "Dust Line"
+         },
+    {
+      "id": "369b25f4-c913-4ee5-a034-bcf5292f0bae",
+      "name": "Desert Eagle",
+      "category": "Dust Line"
+         },
+    {
+      "id": "569ce395-6395-480a-807c-d196f30c94ee",
+      "name": "C8SFW",
+      "category": "Dust Line"
+         },
+    {
+      "id": "35db24a4-18a5-48cf-bdd3-1f0a1a383156",
+      "name": "416 Carbine",
+      "category": "Dust Line"
+         },
+    {
+      "id": "7b036169-b273-4cff-b67f-e81ce7dbebd1",
+      "name": "F2",
+      "category": "Dust Line"
+         },
+    {
+      "id": "bda8e630-9ea8-4922-b617-134663044702",
+      "name": "Mk1_9mm",
+      "category": "Dust Line"
+         },
+    {
+      "id": "2a124d17-a792-4b55-9ff0-7e588ad4fa01",
+      "name": "FMG-9",
+      "category": "Dust Line"
+         },
+    {
+      "id": "1cb2060a-6cc3-429b-8013-316c1ca4ec77",
+      "name": "R4C",
+      "category": "Dust Line"
+         },
+    {
+      "id": "2595a5ec-99fb-4feb-8443-222ee5a10d1d",
+      "name": "UMP45",
+      "category": "Dust Line"
+         },
+    {
+      "id": "25ee2f20-f42a-496a-bae6-9a2293a9774c",
+      "name": "5.7 USG",
+      "category": "Dust Line"
+         },
+    {
+      "id": "bb3bfe47-9daa-44a3-bbee-a84cc2c31ab1",
+      "name": "AK-12",
+      "category": "Dust Line"
+         },
+    {
+      "id": "869dc46d-1027-4855-91d1-e74d79694ad0",
+      "name": "AR33",
+      "category": "Dust Line"
+         },
+    {
+      "id": "68a308ba-20f4-4952-adc5-2419e8b38819",
+      "name": "417",
+      "category": "Dust Line"
+         },
+    {
+      "id": "cf832f2c-b778-4c45-9667-aeec69d8bf86",
+      "name": "CAMRS",
+      "category": "Dust Line"
+         },
+    {
+      "id": "7bd6d981-0aff-44a8-9dc8-eef5510233a4",
+      "name": "P12",
+      "category": "Dust Line"
+         },
+    {
+      "id": "6f230818-820c-462a-88f2-44327ad8ff72",
+      "name": "M45 Meusoc",
+      "category": "Dust Line"
+         },
+    {
+      "id": "c92fa8eb-6e64-4e61-b999-fee1ae784857",
+      "name": "P9",
+      "category": "Dust Line"
+         },
+    {
+      "id": "2e3a8863-31ec-4cf9-a1bd-14f5a9d9e2bd",
+      "name": "M590A1",
+      "category": "Dust Line"
+         },
+    {
+      "id": "fc0d6de5-a919-47c6-a421-2bd581425f92",
+      "name": "Super 90",
+      "category": "Dust Line"
+         },
+    {
+      "id": "b018a678-ae69-4e80-9cfd-8a596b148ed2",
+      "name": "SASG",
+      "category": "Dust Line"
+         },
+    {
+      "id": "fae2fd7d-ee4a-4c89-9905-246b5ef5cbc9",
+      "name": "9mm C1",
+      "category": "Dust Line"
+         },
+    {
+      "id": "069e8fd6-17ba-4249-ab36-ea23bb739f97",
+      "name": "9x19VSN",
+      "category": "Dust Line"
     }
   ]
 }
