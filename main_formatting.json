@@ -1804,6 +1804,11 @@
       "id": "df5309f6-9fdd-4462-b3e2-b7905c1d11c2",
       "name": "Valkyrie Elite",
       "category": "Elites"
+                                                   },
+    {
+      "id": "1bf09ad4-3388-4a4a-baef-0473881d86a7",
+      "name": "Frost Elite",
+      "category": "Elites"
     }
   ]
 }
