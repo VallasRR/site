@@ -1834,6 +1834,21 @@
       "id": "5a87d9e4-ed34-0482-675d-5e99c1294fbd",
       "name": "World Class Apparatus",
       "category": "Seasonals"
+     },
+     {
+      "id": "75df6027-5187-4c9c-b62a-39ebe4513458",
+      "name": "90 Day Boosters: {quantity}",
+      "category": "Extras"
+    },
+    {
+      "id": "bc8f9c93-2bd2-40a2-ba73-bc20a40fa12a",
+      "name": "Developer Skin",
+      "category": "Seasonals"
+    },
+    {
+      "id": "bc8f9c93-2bd2-40a2-ba73-bc20a40fa12a",
+      "name": "Developer Skin",
+      "category": "Attachment Skins"
     }
   ]
 }
