@@ -1801,14 +1801,38 @@
       "category": "Charms"
                                              },
     {
-      "id": "df5309f6-9fdd-4462-b3e2-b7905c1d11c2",
-      "name": "Valkyrie Elite",
-      "category": "Elites"
+      "id": "7a2613ae-f098-4808-d302-5d9664157e39",
+      "name": "Sentient Growth",
+      "category": "Seasonals"
                                                    },
     {
+      "id": "f11cb11c-f697-9e85-894a-76ec506ac9c1",
+      "name": "Wisdom and Hospitality",
+      "category": "Attachment Skins"
+                                                         },
+    {
+      "id": "47f46fac-6dd2-4899-4729-16fa428803f0",
+      "name": "Wisdom and Hospitality",
+      "category": "Seasonals"
+                                                         },
+    {
       "id": "1bf09ad4-3388-4a4a-baef-0473881d86a7",
-      "name": "Frost Elite",
-      "category": "Elites"
-    }
+      "name": "Thermal Antipodes",
+      "category": "Seasonals"
+                                                         },
+    {
+      "id": " a4a84728-1a83-439b-aa1f-8f568a412095",
+      "name": "Thermal Antipodes",
+      "category": "Attachment Skins"
+                                                         },
+    {
+      "id": " 422bbd9e-dc3f-0b51-715f-c1bc4df0438b",
+      "name": "World Class Apparatus",
+      "category": "Attachment Skins"
+                                                         },
+    {
+      "id": "5a87d9e4-ed34-0482-675d-5e99c1294fbd",
+      "name": "World Class Apparatus",
+      "category": "Seasonals"
   ]
 }
