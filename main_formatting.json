@@ -1854,6 +1854,11 @@
       "id": "e6d727a7-7b66-0d8f-66e0-7f3523b5238b",
       "name": "Suspicious Material",
       "category": "Seasonals"
+                   },
+    {
+      "id": "4c9f7230-4b1c-d453-ab4d-4fa354a1b2f2",
+      "name": "Suspicious Material",
+      "category": "Attachment Skins"
     }
   ]
 }
