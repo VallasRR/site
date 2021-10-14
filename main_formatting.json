@@ -1859,6 +1859,11 @@
       "id": "4c9f7230-4b1c-d453-ab4d-4fa354a1b2f2",
       "name": "Suspicious Material",
       "category": "Attachment Skins"
+                         },
+    {
+      "id": "88535cb7-0f56-477e-aa89-620f3872c2a0",
+      "name": "Ash Blackviper Elite",
+      "category": "Elites"
     }
   ]
 }
